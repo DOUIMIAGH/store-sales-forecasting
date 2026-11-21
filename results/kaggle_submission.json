@@ -1,0 +1,18 @@
+{
+  "competition": "Store Sales - Time Series Forecasting",
+  "competition_url": "https://www.kaggle.com/competitions/store-sales-time-series-forecasting",
+  "metric": "RMSLE",
+  "score": 0.43477,
+  "evaluation": "competition_test",
+  "test_start": "2017-08-16",
+  "test_end": "2017-08-31",
+  "forecast_rows": 28512,
+  "submitted_on": "2026-11-21",
+  "status": "Complete",
+  "notebook_owner": "ghaith01",
+  "notebook_slug": "store-sales-exploration-et-pr-vision-des-ventes",
+  "notebook_version": 1,
+  "source": "Kaggle submissions page screenshot provided by the author",
+  "submitted_csv_filename": null,
+  "filename_note": "The result screenshot does not show the CSV filename; the project recommends submission_amelioree.csv."
+}

@@ -1,0 +1,6 @@
+Modele,RMSLE_regroupe
+LightGBM + calendrier + statistiques,0.3972
+LightGBM + calendrier,0.4063
+LightGBM,0.4068
+Moyenne logarithmique,0.4539
+Moyenne simple,0.4641
